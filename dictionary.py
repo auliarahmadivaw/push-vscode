@@ -15,12 +15,12 @@ dictionary1 = {
 dict2 = dictionary1.copy() 
 print (dict2)
 #mengeluarkan item dictionary menjadi list
-pemain = {
+pemain11 = {
 'nama' : "Ronaldo",
 'hobi' : "duduk di bangku cadangan",
 'pencapaian world cup 22' : "pulang duluan" 
 }
-print(pemain.items())
+print(pemain11.items())
 #mengembalikan daftar dari pasangan tuple 
 Indonesia = dict (
 Squad = ("firman utina","atep","markus","gonzalez"), 
